@@ -1,5 +1,7 @@
 # LOMO Route Studio Support
 
+Public page: https://jikoolomo.github.io/lomo-apps-lomoroutestudio/support.html
+
 LOMO Route Studio helps you turn selected iPhone photos into a short route-story video using on-device processing.
 
 ## Support topics
