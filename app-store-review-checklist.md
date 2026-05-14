@@ -13,8 +13,8 @@
 - Subtitle: short and user-facing, not technical
 - Description: explain local-first route-story video creation from selected photos
 - Keywords: route video, travel story, photo route, GPS photos, vertical video
-- Support URL: `https://github.com/jikoolomo/lomo-apps-lomoroutestudio/blob/main/support.md`
-- Privacy Policy URL: `https://github.com/jikoolomo/lomo-apps-lomoroutestudio/blob/main/privacy-policy.md`
+- Support URL: `https://jikoolomo.github.io/lomo-apps-lomoroutestudio/support.html`
+- Privacy Policy URL: `https://jikoolomo.github.io/lomo-apps-lomoroutestudio/privacy.html`
 - App category: likely `Photo & Video`
 - Age rating: complete questionnaire honestly
 - Review notes: explain that the app reads selected photos locally, uses EXIF time and GPS metadata, renders on-device, and saves to Photos
