@@ -2,12 +2,13 @@
 
 LOMO Route Studio is a local-first iPhone app that turns selected GPS-tagged photos into a short vertical route-story video.
 
-This repository holds the public App Store support and privacy documents for LOMO Route Studio.
+This repository holds the public website, App Store support page, and privacy policy for LOMO Route Studio.
 
 ## Public Links
 
-- Privacy Policy: https://github.com/jikoolomo/lomo-apps-lomoroutestudio/blob/main/privacy-policy.md
-- Support: https://github.com/jikoolomo/lomo-apps-lomoroutestudio/blob/main/support.md
+- Home: https://jikoolomo.github.io/lomo-apps-lomoroutestudio/
+- Privacy Policy: https://jikoolomo.github.io/lomo-apps-lomoroutestudio/privacy.html
+- Support: https://jikoolomo.github.io/lomo-apps-lomoroutestudio/support.html
 - Issues: https://github.com/jikoolomo/lomo-apps-lomoroutestudio/issues
 
 ## Product Definition
@@ -26,5 +27,5 @@ LOMO Route Studio is not a general video editor. It is an automatic route video 
 
 Use these URLs in App Store Connect:
 
-- Support URL: `https://github.com/jikoolomo/lomo-apps-lomoroutestudio/blob/main/support.md`
-- Privacy Policy URL: `https://github.com/jikoolomo/lomo-apps-lomoroutestudio/blob/main/privacy-policy.md`
+- Support URL: `https://jikoolomo.github.io/lomo-apps-lomoroutestudio/support.html`
+- Privacy Policy URL: `https://jikoolomo.github.io/lomo-apps-lomoroutestudio/privacy.html`
