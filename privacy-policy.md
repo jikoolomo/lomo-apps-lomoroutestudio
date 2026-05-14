@@ -1,6 +1,8 @@
 # LOMO Route Studio Privacy Policy
 
-Last updated: 2026-05-12
+Last updated: 2026-05-14
+
+Public page: https://jikoolomo.github.io/lomo-apps-lomoroutestudio/privacy.html
 
 LOMO Route Studio is a local-first iPhone app that turns selected photos into short route-story videos.
 
