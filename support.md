@@ -20,6 +20,6 @@ LOMO Route Studio helps you turn selected iPhone photos into a short route-story
 
 ## Contact
 
-Use the GitHub Issues page for support:
-
-https://github.com/jikoolomo/lomo-apps-lomoroutestudio/issues
+- Email: jikookimlomo@gmail.com
+- Phone: 010-4460-2229
+- GitHub Issues: https://github.com/jikoolomo/lomo-apps-lomoroutestudio/issues
