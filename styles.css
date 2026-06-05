@@ -406,6 +406,46 @@ h1 {
   font-weight: 700;
 }
 
+.lang-anchors {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 18px;
+  flex-wrap: wrap;
+}
+
+.lang-anchors a {
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  padding: 7px 13px;
+  border-radius: 999px;
+  background: rgba(168, 197, 209, 0.2);
+  color: var(--text);
+  transition: background 160ms ease, transform 160ms ease;
+}
+
+.lang-anchors a:hover,
+.lang-anchors a:focus-visible {
+  background: rgba(168, 197, 209, 0.36);
+  transform: translateY(-1px);
+}
+
+.lang-divider {
+  border: 0;
+  height: 1px;
+  background: var(--border);
+  margin: 36px 0 28px;
+}
+
+.lang-section[lang="ko"] .eyebrow {
+  background: rgba(232, 155, 126, 0.16);
+  color: var(--coral);
+}
+
+.lang-section[lang="ko"] .eyebrow::before {
+  background: var(--coral);
+}
+
 @media (max-width: 920px) {
   .hero {
     grid-template-columns: 1fr;

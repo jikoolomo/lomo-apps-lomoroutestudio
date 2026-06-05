@@ -6,7 +6,7 @@
     <title>LOMO Route Studio</title>
     <meta
       name="description"
-      content="LOMO Route Studio turns selected iPhone photos into a short route-story video, locally on your device."
+      content="LOMO Route Studio turns selected iPhone photos into a short route-story video, locally on your device. LOMO Route Studio는 선택한 iPhone 사진을 디바이스 안에서 짧은 루트 스토리 영상으로 만들어 줍니다."
     />
     <link rel="stylesheet" href="styles.css" />
   </head>
@@ -35,20 +35,47 @@
       <main>
         <section class="hero">
           <div class="hero-copy">
-            <div class="eyebrow">Local-first route story creator</div>
-            <h1>Turn your movement into a story.</h1>
-            <p>
-              LOMO Route Studio is an iPhone app that reads the time and GPS
-              metadata inside your selected photos, builds a route across Earth,
-              and renders a short vertical story video on your device.
-            </p>
-            <div class="cta-row">
-              <a class="cta-primary" href="privacy.html">View Privacy Policy</a>
-              <a class="cta-secondary" href="support.html">Open Support</a>
+            <nav class="lang-anchors" aria-label="Language">
+              <a href="#en">English</a>
+              <a href="#ko">한국어</a>
+            </nav>
+
+            <div class="lang-section" lang="en" id="en">
+              <div class="eyebrow">Local-first route story creator</div>
+              <h1>Turn your movement into a story.</h1>
+              <p>
+                LOMO Route Studio is an iPhone app that reads the time and GPS
+                metadata inside your selected photos, builds a route across
+                Earth, and renders a short vertical story video on your device.
+              </p>
+              <div class="cta-row">
+                <a class="cta-primary" href="privacy.html">View Privacy Policy</a>
+                <a class="cta-secondary" href="support.html">Open Support</a>
+              </div>
+              <div class="trust-note">
+                Local-first. No cloud upload. No account system. No backend
+                storage.
+              </div>
             </div>
-            <div class="trust-note">
-              Local-first. No cloud upload. No account system. No backend
-              storage.
+
+            <hr class="lang-divider" />
+
+            <div class="lang-section" lang="ko" id="ko">
+              <div class="eyebrow">로컬 우선 루트 스토리 크리에이터</div>
+              <h1>당신의 여정을 한 편의 스토리로.</h1>
+              <p>
+                LOMO Route Studio는 선택한 사진의 촬영 시각과 GPS 메타데이터를
+                읽어 지구 위에 루트를 그리고, 짧은 세로 스토리 영상을 디바이스
+                안에서 렌더링하는 iPhone 앱입니다.
+              </p>
+              <div class="cta-row">
+                <a class="cta-primary" href="privacy.html">개인정보 처리방침 보기</a>
+                <a class="cta-secondary" href="support.html">지원 페이지 열기</a>
+              </div>
+              <div class="trust-note">
+                로컬 우선. 클라우드 업로드 없음. 계정 시스템 없음. 백엔드 저장
+                없음.
+              </div>
             </div>
           </div>
 
@@ -75,6 +102,9 @@
               <span>
                 Build a 15-second vertical route video from your selected
                 photos, grouped into moments and placed back onto Earth.
+                <br />
+                선택한 사진을 모먼트로 묶어 지구 위에 다시 올린, 15초 세로 루트
+                영상.
               </span>
             </div>
           </div>
@@ -88,12 +118,22 @@
               location metadata, then create a route story that previews and
               renders locally.
             </p>
+            <h3 lang="ko" style="margin-top: 18px;">앱이 하는 일</h3>
+            <p lang="ko">
+              iPhone에서 사진을 선택하면 앱이 시각과 위치 메타데이터를 읽어
+              루트 스토리를 디바이스 안에서 미리보고 렌더링합니다.
+            </p>
           </article>
           <article class="panel">
             <h3>What it does not do</h3>
             <p>
-              LOMO Route Studio does not create accounts, upload your library to
-              the cloud, or run a backend that stores your personal photos.
+              LOMO Route Studio does not create accounts, upload your library
+              to the cloud, or run a backend that stores your personal photos.
+            </p>
+            <h3 lang="ko" style="margin-top: 18px;">앱이 하지 않는 일</h3>
+            <p lang="ko">
+              LOMO Route Studio는 계정을 만들거나, 라이브러리를 클라우드에
+              업로드하거나, 개인 사진을 저장하는 백엔드를 운영하지 않습니다.
             </p>
           </article>
           <article class="panel">
@@ -107,12 +147,24 @@
                 </a>
               </li>
             </ul>
+            <h3 lang="ko" style="margin-top: 18px;">공개 앱 링크</h3>
+            <ul lang="ko">
+              <li><a href="privacy.html">개인정보 처리방침</a></li>
+              <li><a href="support.html">지원</a></li>
+              <li>
+                <a href="https://github.com/jikoolomo/lomo-apps-lomoroutestudio/issues">
+                  GitHub Issues
+                </a>
+              </li>
+            </ul>
           </article>
         </section>
       </main>
 
       <footer class="footer">
         LOMO Route Studio public site for app support and privacy information.
+        <br />
+        LOMO Route Studio 앱 지원 및 개인정보 안내 공식 사이트.
       </footer>
     </div>
   </body>
